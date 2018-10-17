@@ -1,3 +1,5 @@
 # office2HTML
 把一个文件夹内所有的word文件转化成适用于ueditor的html文件
-示例文件在files文件夹内，可以直接运行start.sh来转换
+示例文件在files文件夹内
+将所有要转换的文件放入files文件夹内，运行start.sh
+生成的html文件和doc同名文件在同一个文件夹里

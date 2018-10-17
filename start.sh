@@ -15,7 +15,6 @@ do
 		elif [[ $f =~ 'doc' ]];then
 			$exFile $p ${p/doc/html};
 		fi
-		
 	fi
 done
 }
